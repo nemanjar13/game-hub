@@ -9,4 +9,5 @@ Explore a vast library of games with ease. Search for specific titles, filter ga
 ### Responsive Design
 Enjoy GameExplorer on any device! We've crafted a responsive user interface using Chakra UI and React-Router. Whether you're on a desktop, tablet, or mobile device, our application adapts to your screen size for optimal viewing and interaction.
 
-
+## Demo
+![](https://github.com/nemanjar13/game-hub/blob/main/GameHub%20Demo%20Part%201%20-%20Explore.gif)
