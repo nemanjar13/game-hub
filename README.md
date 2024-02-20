@@ -17,7 +17,7 @@ Enjoy GameExplorer on any device! We've crafted a responsive user interface usin
 ![](https://github.com/nemanjar13/game-hub/blob/main/Demo-pt3.gif)
 
 ## How to Get Started
-Visit GameHub on [here](game-hub-nemanjar13.vercel.app).
+Visit [GameHub](https://game-hub-nemanjar13.vercel.app).
 Start exploring! Use the search bar, filters, and sorting options to find the perfect game for your preferences.
 Dive into the details, read reviews, and discover new favorites.
 GameExplorer is more than just a platform; it's an adventure waiting to unfold. Happy gaming! 🎮✨
